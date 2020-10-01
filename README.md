@@ -9,9 +9,7 @@ It is advised to try the following problems on your own, then look at the soluti
 ##### e. Create a webpage that prints any text of your choice to the screen; do not include a head section in the code.
 ##### f. Create a webpage which keeps track of the browsers information and do thefollowing: Refreshes its page in 5 seconds and expires in a duration of time.
 
-
 #### Question 2
-
 ##### a. Print your name in green
 ##### b. Print the numbers 1 -10, each number being a different color.
 ##### c. Prints your name in a Tahoma font.
