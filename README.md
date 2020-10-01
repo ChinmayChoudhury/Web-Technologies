@@ -1,7 +1,6 @@
 # Web-Technologies
 
-This repository is for educational purpose only. Some HTML examples questions and their solutions are there.
-
+It is advised to try the following problems on your own, then look at the solution for reference. 
 #### Question 1
 ##### a. Create a webpage that prints your name to the screen.
 ##### b. Create a webpage that prints the numbers 1 -10 to the screen.
